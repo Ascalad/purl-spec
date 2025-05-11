@@ -1,8 +1,8 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduc
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
+tabIn the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
@@ -33,7 +33,7 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
+escProject maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
@@ -54,7 +54,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+tabInstances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at pombredanne@nexb.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
